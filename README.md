@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis on Indian Political Discourse
 ### MSc Data Science — University of Roehampton
-**Student:** Karthikeya | **ID:** M10710 | **File:** 22_02_Need_Assignment_Karthikeya_Disse_M10710.ipynb
+**Student:** Karthikeya Vaitla | **ID:** M10710 | 
 
 ---
 
@@ -24,12 +24,7 @@ This project investigates whether transformer-based deep learning models signifi
 project/
 ├── 22_02_Need_Assignment_Karthikeya_Disse_M10710.ipynb   ← Main notebook
 ├── Twitter_Data.csv                                       ← Dataset (162,980 tweets)
-├── distilbert_local/                                      ← DistilBERT model cache
-├── roberta_local/                                         ← RoBERTa model cache
-├── cm_distilbert.png                                      ← DistilBERT confusion matrix
-├── cm_roberta.png                                         ← RoBERTa confusion matrix
-├── cm_nb.png                                              ← Naive Bayes confusion matrix
-└── loss_curve.png                                         ← DistilBERT training loss curve
+
 ```
 
 ---
