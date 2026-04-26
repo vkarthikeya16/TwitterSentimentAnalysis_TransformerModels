@@ -22,7 +22,7 @@ This project investigates whether transformer-based deep learning models signifi
 
 ```
 project/
-├── 22_02_Need_Assignment_Karthikeya_Disse_M10710.ipynb   ← Main notebook
+├── A00051441_KarthikeyaVaitla_Code.ipynb   ← Main notebook
 ├── Twitter_Data.csv                                       ← Dataset (162,980 tweets)
 
 ```
